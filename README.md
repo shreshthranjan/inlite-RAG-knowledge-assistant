@@ -51,7 +51,7 @@ inlite-knowledge-assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inlite-knowledge-assistant.git
+git clone https://github.com/shreshthranjan/inlite-knowledge-assistant.git
 cd inlite-knowledge-assistant
 ```
 
