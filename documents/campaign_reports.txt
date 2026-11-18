@@ -1,0 +1,25 @@
+SAMPLE CAMPAIGN PERFORMANCE REPORT
+
+Campaign A:
+Advertising Spend: 5000 INR
+Impressions: 50000
+Clicks: 2500
+Leads: 125
+Conversions: 25
+
+Campaign B:
+Advertising Spend: 4000 INR
+Impressions: 40000
+Clicks: 1600
+Leads: 80
+Conversions: 20
+
+Campaign C:
+Advertising Spend: 6000 INR
+Impressions: 60000
+Clicks: 3000
+Leads: 150
+Conversions: 30
+
+These figures are fictional and are provided only
+for demonstrating document-based question answering.
